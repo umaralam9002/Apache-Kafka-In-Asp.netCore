@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B11A6A25-6C5A-4A53-9C40-D58E3B3FCC97}|KafkaConsumerAPI\\KafkaConsumerAPI.csproj|d:\\web\\apache kafa project\\kafkademosolution\\kafkaconsumerapi\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11A6A25-6C5A-4A53-9C40-D58E3B3FCC97}|KafkaConsumerAPI\\KafkaConsumerAPI.csproj|solutionrelative:kafkaconsumerapi\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11A6A25-6C5A-4A53-9C40-D58E3B3FCC97}|KafkaConsumerAPI\\KafkaConsumerAPI.csproj|d:\\web\\apache kafa project\\kafkademosolution\\kafkaconsumerapi\\controllers\\replycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11A6A25-6C5A-4A53-9C40-D58E3B3FCC97}|KafkaConsumerAPI\\KafkaConsumerAPI.csproj|solutionrelative:kafkaconsumerapi\\controllers\\replycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11A6A25-6C5A-4A53-9C40-D58E3B3FCC97}|KafkaConsumerAPI\\KafkaConsumerAPI.csproj|d:\\web\\apache kafa project\\kafkademosolution\\kafkaconsumerapi\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11A6A25-6C5A-4A53-9C40-D58E3B3FCC97}|KafkaConsumerAPI\\KafkaConsumerAPI.csproj|solutionrelative:kafkaconsumerapi\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E18D72-E97E-41BD-9CAF-D0BB6A528691}|KafkaProducerAPI\\KafkaProducerAPI.csproj|d:\\web\\apache kafa project\\kafkademosolution\\kafkaproducerapi\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E18D72-E97E-41BD-9CAF-D0BB6A528691}|KafkaProducerAPI\\KafkaProducerAPI.csproj|solutionrelative:kafkaproducerapi\\services\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E18D72-E97E-41BD-9CAF-D0BB6A528691}|KafkaProducerAPI\\KafkaProducerAPI.csproj|d:\\web\\apache kafa project\\kafkademosolution\\kafkaproducerapi\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E18D72-E97E-41BD-9CAF-D0BB6A528691}|KafkaProducerAPI\\KafkaProducerAPI.csproj|solutionrelative:kafkaproducerapi\\services\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E18D72-E97E-41BD-9CAF-D0BB6A528691}|KafkaProducerAPI\\KafkaProducerAPI.csproj|d:\\web\\apache kafa project\\kafkademosolution\\kafkaproducerapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E18D72-E97E-41BD-9CAF-D0BB6A528691}|KafkaProducerAPI\\KafkaProducerAPI.csproj|solutionrelative:kafkaproducerapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4E18D72-E97E-41BD-9CAF-D0BB6A528691}|KafkaProducerAPI\\KafkaProducerAPI.csproj|d:\\web\\apache kafa project\\kafkademosolution\\kafkaproducerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4E18D72-E97E-41BD-9CAF-D0BB6A528691}|KafkaProducerAPI\\KafkaProducerAPI.csproj|solutionrelative:kafkaproducerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B11A6A25-6C5A-4A53-9C40-D58E3B3FCC97}|KafkaConsumerAPI\\KafkaConsumerAPI.csproj|d:\\web\\apache kafa project\\kafkademosolution\\kafkaconsumerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B11A6A25-6C5A-4A53-9C40-D58E3B3FCC97}|KafkaConsumerAPI\\KafkaConsumerAPI.csproj|solutionrelative:kafkaconsumerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaProducerAPI\\Services\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "KafkaProducerAPI\\Services\\KafkaConsumerService.cs",
+              "ToolTip": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaProducerAPI\\Services\\KafkaConsumerService.cs",
+              "RelativeToolTip": "KafkaProducerAPI\\Services\\KafkaConsumerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:26:27.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaConsumerAPI\\Services\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerAPI\\Services\\KafkaConsumerService.cs",
+              "ToolTip": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaConsumerAPI\\Services\\KafkaConsumerService.cs",
+              "RelativeToolTip": "KafkaConsumerAPI\\Services\\KafkaConsumerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:49:21.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaConsumerAPI\\Services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerAPI\\Services\\KafkaProducerService.cs",
+              "ToolTip": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaConsumerAPI\\Services\\KafkaProducerService.cs",
+              "RelativeToolTip": "KafkaConsumerAPI\\Services\\KafkaProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:28:54.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReplyController.cs",
+              "DocumentMoniker": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaConsumerAPI\\Controllers\\ReplyController.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerAPI\\Controllers\\ReplyController.cs",
+              "ToolTip": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaConsumerAPI\\Controllers\\ReplyController.cs",
+              "RelativeToolTip": "KafkaConsumerAPI\\Controllers\\ReplyController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:30:04.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaProducerAPI\\Services\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "KafkaProducerAPI\\Services\\KafkaProducerService.cs",
+              "ToolTip": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaProducerAPI\\Services\\KafkaProducerService.cs",
+              "RelativeToolTip": "KafkaProducerAPI\\Services\\KafkaProducerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:48:24.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaProducerAPI\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "KafkaProducerAPI\\Controllers\\MessageController.cs",
+              "ToolTip": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaProducerAPI\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "KafkaProducerAPI\\Controllers\\MessageController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:53:39.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaProducerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaProducerAPI\\Program.cs",
+              "ToolTip": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaProducerAPI\\Program.cs",
+              "RelativeToolTip": "KafkaProducerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:27:30.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaConsumerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerAPI\\Program.cs",
+              "ToolTip": "D:\\Web\\Apache Kafa Project\\KafkaDemoSolution\\KafkaConsumerAPI\\Program.cs",
+              "RelativeToolTip": "KafkaConsumerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T07:10:53.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
